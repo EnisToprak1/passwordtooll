@@ -1,0 +1,31 @@
+Proje Tanımı
+Projenin Amacı ve Kapsamı: Bu proje, kullanıcıların şifrelerini analiz ederek güvenliğini değerlendiren ve şifrelerin daha güçlü hale getirilmesi için öneriler sunan bir araçtır. Araç, kullanıcıların şifrelerini zayıflıklarına göre puanlar ve iyileştirme önerileri sunar.
+
+Çözülen Güvenlik Problemi: Zayıf şifreler nedeniyle yaşanan yetkisiz erişim ve veri ihlalleri gibi güvenlik sorunlarını önlemek. Proje, kullanıcıların şifre güvenliğini artırmalarına yardımcı olur ve daha güvenli bir dijital ortam sağlar.
+
+Hedef Kitle ve Kullanım Alanları:
+
+Bireysel kullanıcılar (kişisel şifrelerini güvenli hale getirmek isteyenler).
+Şirketler ve işletmeler (çalışan şifrelerini güçlendirme amacıyla).
+Eğitim kurumları (öğrenciler ve çalışanlar için şifre farkındalığı eğitimi).
+Şifre güvenliğine yönelik uygulama geliştiren yazılım ekipleri.
+Teknik Gereksinimler
+Kullanılan Programlama Dili:
+
+Python 3.7+
+Gerekli Kütüphaneler ve Sürümleri:
+
+re (Standart kütüphane, regex işlemleri için).
+requests (HTTP istekleri için, versiyon ≥ 2.0).
+random (Rastgele öneriler oluşturmak için, standart kütüphane).
+json (JSON formatında veri oluşturma ve işleme, standart kütüphane).
+Çalışma Ortamı Gereksinimleri:
+
+Python Yüklü Ortam:
+Python 3.7 veya daha üstü.
+Gerekli kütüphanelerin yüklü olduğu bir çalışma ortamı.
+İnternet Bağlantısı:
+Çeviri özelliğini kullanmak için internet bağlantısı gereklidir (Google Translate API'si kullanılmaktadır).
+Desteklenen Platformlar:
+Windows, macOS, Linux gibi Python'un çalışabildiği tüm platformlar.
+Nasıl Kullanılır?

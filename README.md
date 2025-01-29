@@ -1,6 +1,13 @@
 Ad-Soyad: Salih Sefa Korkmaz Numara:2320191019 // Ad-Soyad: Enis Seha Toprak Numara:2320191038
 
 
+Örnek bir kullanımı
+
+https://github.com/user-attachments/assets/caf10607-170e-4314-867a-619b45e2c754
+
+
+
+
 Kurulum
 Bu kılavuz, Şifre Güvenliği Analizi Aracı'nı bilgisayarınıza yüklemeniz ve çalıştırmanız için gereken adımları açıklar.
 

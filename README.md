@@ -1,7 +1,7 @@
 Ad-Soyad: Salih Sefa Korkmaz Numara:2320191019 // Ad-Soyad: Enis Seha Toprak Numara:2320191038
 
 
-Örnek bir kullanımı
+Örnek kullanımı
 
 https://github.com/user-attachments/assets/caf10607-170e-4314-867a-619b45e2c754
 
